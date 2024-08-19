@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SynergyBank accounts related docker APIs "
+  message: "Welcome to Payroll related docker APIs "
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@synergybank.com"
+    name: "Prateek Bhat"
+    email: "john@payroll.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
